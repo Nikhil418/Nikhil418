@@ -19,7 +19,7 @@ I occasionally share my insights and experiences in the DevOps world on my (http
 
 ## 📫 Let's Connect
 
-- LinkedIn: (www.linkedin.com/in/nikhil-patil6)
+- LinkedIn: (https://linkedin.com/in/nikhil-patil6)
   
 Feel free to reach out if you share similar interests or if you have any questions about DevOps!
 
